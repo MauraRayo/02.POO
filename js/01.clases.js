@@ -50,3 +50,4 @@ var yo = new Personas();
  }
 
  var mascota = new Animales("Perro", "Pitbul")
+ console.log("mascota", mascota)
